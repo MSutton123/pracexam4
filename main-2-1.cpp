@@ -1,4 +1,4 @@
-#include "Helicopter.cpp"
+/*#include "Helicopter.cpp"
 
 #include <string>
 
@@ -6,4 +6,6 @@
 
 int main() {
     // this is a main for the heli class
-}
+
+    
+}*/

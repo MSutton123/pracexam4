@@ -1,4 +1,4 @@
-#include "AirCraft.h"
+/*#include "AirCraft.h"
 #include<math.h>
 
 AirCraft::AirCraft() {
@@ -35,3 +35,5 @@ void AirCraft::fly(int headwind, int minutes) {
 
   fuel -= sub;
 }
+
+*/

@@ -1,9 +1,9 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 
 class AirCraft {
  private:
-  /* data */
+  /* data 
  public:
   AirCraft();
   AirCraft(int w);
@@ -26,3 +26,5 @@ class AirCraft {
 
   ~AirCraft();
 };
+
+*/

@@ -1,4 +1,4 @@
-#include "Helicopter.h"
+/*#include "Helicopter.h"
 
 using namespace std;
 
@@ -11,4 +11,4 @@ Helicopter::Helicopter() {
 Helicopter::Helicopter (int w, string n) {
     name = n;
     weight = w;
-}
+} */

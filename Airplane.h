@@ -1,9 +1,10 @@
-#include "AirCraft.cpp"
+/*#include "AirCraft.cpp"
 
 class Airplane : AirCraft
 {
 private:
-    /* data */
+    /* data 
 public:
     // info
 };
+*/

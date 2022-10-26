@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 
 //#include "AirCraft.cpp"
@@ -49,4 +49,4 @@ cout << "Current weight: " << craft->get_weight() << endl
        cout<< "end" << endl;
 
 
-}
+} */
